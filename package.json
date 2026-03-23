@@ -1,0 +1,8 @@
+{
+  "name": "edumodo-landing-page",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "python3 -m http.server 4173"
+  }
+}
